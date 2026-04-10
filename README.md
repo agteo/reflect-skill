@@ -6,7 +6,7 @@ When you run `/reflect` inside a Claude Code session, it reads your recent conve
 
 ## What it does
 
-1. Reads your recent Claude sessions (last 14 days by default)
+1. Reads your recent Claude sessions (last 14 days by default) and cross-references them with any other AI tool usage it can detect — Codex, ChatGPT, Gemini, and others leave traces in how sessions start, what context gets re-explained, and what work appears in git without a corresponding conversation
 2. Pulls recent `git log` from the active project, including files with heavy churn
 3. Writes a coaching notes file to `reflection-notes/YYYY-MM-DD-coach-notes.md`
 4. Gives you a brief spoken summary of the single most important takeaway
