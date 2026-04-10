@@ -94,7 +94,7 @@ Be specific and a little uncomfortable here — that's the job.
 Reflect on the *quality* of the collaboration, not just the content.
 
 **Within these sessions:**
-- Are you using Claude as a thinking partner, or mostly as an executor?
+- Are you using AI (e.g. Claude, ChatGPT, Gemini) as a thinking partner, or mostly as an executor?
 - Are your prompts getting more specific and intentional over time, or are
   they still vague and hoping for the best?
 - Are there signs of over-reliance — using AI where your own judgment
