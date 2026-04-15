@@ -1,4 +1,4 @@
-# reflect-skill
+# Skills to give you Feedback on how you use AI
 
 Two [Claude Code](https://claude.ai/code) slash commands for reflecting on how you work with AI.
 
