@@ -37,6 +37,8 @@ Each run produces a Markdown file in `reflection-notes/` with these sections:
 
 When you run `/reflect-token-use`, it reads the raw session files Claude Code writes locally, extracts token usage data, and produces a report on how efficiently you're using context across your recent sessions.
 
+> **Scope:** This skill only covers Claude Code sessions. Token usage from other AI tools (Cursor, Codex, ChatGPT, Gemini, etc.) is not captured — those tools don't expose usage data in a format this skill can read. If you use multiple tools, the report reflects your Claude usage only.
+
 ### What it does
 
 1. Reads token usage directly from Claude Code's local JSONL session files (the transcript tool doesn't expose this data — the skill goes to the source)

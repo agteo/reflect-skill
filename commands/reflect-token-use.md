@@ -225,6 +225,11 @@ Token efficiency is not the same as outcome quality. A short, cheap session that
 a hard decision is worth more than a long, efficient one that produced mediocre output.
 Use these numbers to catch waste — not to optimise for their own sake.
 
+**Coverage:** This report covers Claude Code sessions only. Token usage from Cursor, Codex,
+ChatGPT, Gemini, or any other AI tool is not included — those tools don't write data in a
+format this skill can access. If you split work across multiple AI tools, your actual total
+usage is higher than what appears here.
+
 ---
 
 ## Step 6: Report the cost of this run
