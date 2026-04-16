@@ -23,13 +23,13 @@ One section specifically analyses **tool-switching behaviour**: signs that you m
 
 Each run produces a Markdown file in `reflection-notes/` with these sections:
 
-- **Themes I noticed** — 2–3 dominant topics with specific evidence and a probing question
+- **Themes I observed** — 2–3 dominant topics with specific evidence and a probing question
 - **Decisions in motion** — what reached resolution vs. what's still open
 - **Friction points** — where you got stuck, with evidence not just description
 - **What you might be avoiding** — gaps, dropped threads, things said but not followed up
 - **How you're using AI** — quality of collaboration, prompt intentionality, tool-switching patterns
 - **Momentum check** — what's moving forward vs. recurring without progress
-- **One question to sit with** — a single question to carry into the week
+- **One question for self-reflection** — a single question to carry into the week
 
 ---
 

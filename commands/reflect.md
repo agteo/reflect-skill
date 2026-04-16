@@ -52,7 +52,7 @@ Use today's date. Structure the file exactly as follows:
 
 # Reflection — [date]
 
-## Themes I noticed
+## Themes I observed
 
 What topics kept coming up across sessions? Identify 2–3 dominant themes.
 For each theme, pull a specific quote or paraphrase (with session title and
@@ -132,7 +132,7 @@ either within Claude or in how you move between tools — based on the patterns 
 
 ---
 
-## One question to sit with
+## One question for self-reflection
 
 [A single, genuinely difficult question to carry into the week ahead.
 Not a task. A question.]
